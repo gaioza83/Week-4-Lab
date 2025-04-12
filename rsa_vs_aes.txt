@@ -1,0 +1,5 @@
+RSA vs AES:
+                                            
+                                            RSA is asymmetric and ideal for encrypting small data like keys. It is slower and requires more processing power.
+                                            AES is symmetric, much faster, and suited for encrypting large data. In practice, RSA is used to encrypt AES keys,
+                                            while AES encrypts the actual data. This hybrid approach combines the benefits of both.
